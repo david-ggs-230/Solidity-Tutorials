@@ -1,1 +1,2 @@
-# Solidity Tutorials from https://www.tutorialspoint.com/
+# Solidity Tutorials
+code reference: https://www.tutorialspoint.com/solidity/index.htm
